@@ -27,6 +27,7 @@ Para reproducir este proyecto, sigue estos pasos:
         ├── data/
         ├── trained_models/
         └── memoria_tecnica
+        ├── notebooks/
         ```
     * Descarga el dataset proporcionado para la práctica. Este debería incluir un archivo `poi_dataset.csv` y un archivo `data_main.zip` (que contiene las imágenes en una estructura de carpetas por ID).
     * Sube `poi_dataset.csv` y `data_main.zip` a la carpeta `Proyecto_POI_Engagement/data/` en tu Drive.
